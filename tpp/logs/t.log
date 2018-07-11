@@ -1,0 +1,1179 @@
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+ERROR - __init__.py - 18 - --------error-----------
+WARNING - __init__.py - 19 - --------warning-----------
+INFO - __init__.py - 20 - --------info-----------
+DEBUG - __init__.py - 21 - --------debug-----------
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 09:36:06] "GET /index/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\configs\\defaultConfig.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\configs\\defaultConfig.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\app.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 10:09:29] "GET /sendmail/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 10:09:29] "GET /favicon.ico HTTP/1.1" 404 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 10:12:39] "GET /sendmail/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 10:14:14] "GET /sendmail/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 10:16:36] "GET /sendmail/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 10:19:52] "GET /sendmail/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:38:32] "GET / HTTP/1.1" 302 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:38:33] "GET /index/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:39:24] "GET /index.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:39:24] "GET /%7B%7B%20url_for('static',%20filename='css/style.css')%20%7D%7D HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:39:24] "GET /%7B%7B%20url_for('static',%20filename='js/index.js')%20%7D%7D HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:39:24] "GET /%7B%7B%20url_for('static',%20filename='img/1.jpg')%20%7D%7D HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:39:24] "GET /%7B%7B%20url_for('static',%20filename='img/favicon.ico')%20%7D%7D HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:40:40] "GET /index.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:40:40] "GET /staticcss/style.css HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:40:40] "GET /staticjs/index.js' HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:40:40] "GET /%7B%7B%20url_for('static',%20filename='img/1.jpg')%20%7D%7D HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:41:04] "GET /index.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:41:04] "GET /static/js/index.js' HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:41:04] "GET /%7B%7B%20url_for('static',%20filename='img/1.jpg')%20%7D%7D HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:41:29] "GET /index.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:43:01] "GET /index.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:43:06] "GET / HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:43:12] "GET / HTTP/1.1" 404 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:45:07] "GET / HTTP/1.1" 302 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:45:07] "GET /index.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:45:39] "GET /selectStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:45:41] "GET /static/js/jquery-3.1.1.min.js HTTP/1.1" 304 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:50:52] "GET /selectStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:50:56] "GET /students/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:52:46] "GET /selectStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 15:52:49] "GET /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\exts\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:00:04] "GET /selectStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:00:07] "GET /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:05:06] "GET /selectStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:05:14] "GET /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:19:13] "GET /createStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:20:20] "GET /createStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:20:31] "POST /students/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:21:55] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:22:04] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:23:09] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:23:17] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:23:40] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:23:48] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:31:26] "GET /updateStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:31:42] "PUT /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:32:14] "PUT /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:36:05] "GET /deleteStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [23/Mar/2018 16:36:11] "DELETE /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day10\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:18:57] "GET /addStudents.html HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:18:57] "GET /favicon.ico HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:19:25] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:19:25] "GET /static/js/jquery-3.1.1.min.js HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:19:34] "GET /selectStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:19:40] "GET /deleteStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:19:47] "GET /updateStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:27:27] "GET /selectStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:27:29] "GET /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:27:41] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:27:53] "DELETE /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:28:00] "PUT /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:28:12] "GET / HTTP/1.1" 302 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:28:13] "GET /index.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:28:13] "GET /static/js/index.js HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:28:13] "GET /static/css/style.css HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:28:13] "GET /static/img/1.jpg HTTP/1.1" 304 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:30:21] "GET /selectStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:30:23] "GET /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:34:07] "GET /grades/1 HTTP/1.1" 301 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:34:07] "GET /grades/1/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:34:17] "GET /grades/2 HTTP/1.1" 301 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:34:17] "GET /grades/2/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:39:39] "GET /grades/2/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:41:13] "GET /grades/2/ HTTP/1.1" 404 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\app.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:43:31] "GET /grades/2/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:48:21] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:51:51] "GET /selectStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:51:53] "GET /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:52:02] "GET /updateStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:52:14] "PUT /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 09:52:25] "DELETE /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:00:07] "GET /createStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:00:27] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:00:34] "POST /person/ HTTP/1.1" 405 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:01:09] "GET /createStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:01:22] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:03:24] "GET /updateStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:03:24] "GET /updateStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:03:40] "PUT /students/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:04:43] "PUT /students/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:06:15] "GET /updateStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:06:28] "PUT /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:11:31] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:11:38] "POST /students/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:16:21] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:16:31] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:21:35] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:21:45] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\exts\\extends.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:23:03] "POST /students/ HTTP/1.1" 400 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:23:06] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:23:27] "POST /students/ HTTP/1.1" 400 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:24:23] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:24:34] "POST /students/ HTTP/1.1" 400 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:25:21] "POST /students/ HTTP/1.1" 400 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:25:27] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:25:39] "POST /students/ HTTP/1.1" 400 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\exts\\extends.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:26:31] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:26:47] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:28:41] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:28:53] "POST /students/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:30:47] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:30:57] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:32:01] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:32:13] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:33:22] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:35:16] "GET /createStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:35:28] "POST /students/ HTTP/1.1" 400 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:35:42] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:36:08] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:36:27] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:37:13] "GET /createStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:37:22] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:38:36] "GET /createStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:38:42] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:39:55] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 10:40:07] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\studentsApi.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\exts\\extends.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 11:03:14] "GET /createStudents.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 11:03:24] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 11:03:42] "GET /createStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 11:03:50] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 11:04:06] "GET /createStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 11:04:13] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 11:04:23] "GET /createStudents.html HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 11:04:45] "POST /students/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\exts\\extends.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\axf\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 11:21:00] "GET /index.html HTTP/1.1" 304 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 11:21:00] "GET /static/img/favicon.ico HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 14:35:37] "GET /abc HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 14:35:52] "GET / HTTP/1.1" 302 -
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 16:57:04] "POST /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\tpp\\models\\movie.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [26/Mar/2018 16:58:13] "POST /movies/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day11\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 09:29:15] "GET /movies/?flag=1 HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 09:30:35] "GET /movies/?flag=1 HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 09:31:41] "GET /movies/?flag=1 HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 09:33:34] "GET /movies/?flag=1 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 09:34:02] "GET /movies/?flag=0 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 09:34:06] "GET /movies/?flag=0 HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\models\\movie.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 09:35:25] "GET /movies/?flag=2 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 09:36:07] "GET /movies/?flag=2&sortby=id&order=asc&limit=5 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 09:37:05] "GET /movies/?flag=2&limit=5 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 09:37:45] "GET /movies/?flag=2&sortby=id&order=desc&limit=5 HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 10:50:09] "POST /halls/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 10:50:46] "POST /halls/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 10:52:20] "POST /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 10:54:19] "POST /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 10:55:28] "POST /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 14:31:35] "POST /hallSchedules/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 14:40:41] "POST /hallSchedules/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 14:41:34] "POST /hallSchedules/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 14:57:28] "GET /hallSchedules/?cinemaid=1 HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 14:59:09] "GET /hallSchedules/?cinemaid=1 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 14:59:24] "GET /hallSchedules/?cinemaid=2 HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 15:00:16] "GET /hallSchedules/?cinemaid=2 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 15:00:22] "GET /hallSchedules/?cinemaid=1 HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 15:05:51] "GET /hallSchedules/?cinemaid=1&showdate=2018-03-28 HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 15:08:09] "GET /hallSchedules/?cinemaid=1&showdate=2018-03-28 HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 15:11:09] "GET /hallSchedules/?cinemaid=1&showdate=2018-03-28 HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 15:11:48] "GET /hallSchedules/?cinemaid=1&showdate=2018-03-28 HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 15:12:30] "GET /hallSchedules/?cinemaid=1&showdate=2018-03-28 HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 15:13:07] "GET /hallSchedules/?cinemaid=1&showdate=2018-03-28 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 15:13:29] "GET /hallSchedules/?cinemaid=2&showdate=2018-03-28 HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day12\\manage\\tpp\\api\\hallSchedules.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 15:16:46] "GET /hallSchedules/?cinemaid=1&showdate=2018-03-28 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [27/Mar/2018 15:18:02] "GET /hallSchedules/?cinemaid=1&showdate=2018-03-28&movieid=173034 HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 09:38:05] "GET /cinemas/?cityid=%E6%B7%B1%E5%9C%B3&director=%E5%85%A8%E9%83%A8%E5%8C%BA%E5%9F%9F&sortby=score&order=desc&offst=0&limit=3 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 09:38:43] "GET /cinemas/?cityid=%E6%B7%B1%E5%9C%B3&director=%E7%A6%8F%E7%94%B0&sortby=score&order=desc&offst=0&limit=2 HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\cinemas.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\cinemas.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 09:40:09] "GET /cinemas/?cityid=%E6%B7%B1%E5%9C%B3&district=%E7%A6%8F%E7%94%B0&sortby=score&order=desc&offst=0&limit=2 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 09:40:27] "GET /cinemas/?cityid=%E6%B7%B1%E5%9C%B3&district=%E5%85%A8%E9%83%A8%E5%8C%BA%E5%9F%9F&sortby=score&order=desc&offst=0&limit=2 HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\users.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\users.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 10:14:19] "POST /users/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\users.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 10:15:14] "POST /users/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 10:17:27] "POST /users/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\users.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\cinemas.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 14:33:43] "POST /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 14:34:09] "POST /hallSchedules/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 14:42:39] "POST /seats/ HTTP/1.1" 405 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 14:43:35] "POST /seats/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\models\\seat.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 14:44:23] "POST /seats/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 15:45:13] "GET /orders/?movieid=1271503&cinemaid=1&hallid=1&hallScheduleid=1&seatidlist=0:0,0:1&pnum=2 HTTP/1.1" 404 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 15:45:19] "POST /orders/?movieid=1271503&cinemaid=1&hallid=1&hallScheduleid=1&seatidlist=0:0,0:1&pnum=2 HTTP/1.1" 405 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 15:47:59] "POST /orders/ HTTP/1.1" 500 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\models\\order.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 15:52:59] "POST /orders/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:10:28] "POST /orders/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\orders.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\models\\__init__.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:28:12] "POST /orders/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\orders.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:29:02] "POST /orders/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\seats.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\seats.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\seats.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:35:22] "GET /seats/?hallid=1&hallScheduleid=1 HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\seats.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:40:29] "GET /seats/?hallid=1&hallScheduleid=1 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:41:00] "GET /seats/?hallid=1&hallScheduleid=2 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:41:55] "GET /seats/?hallid=1&hallScheduleid=1 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:42:31] "POST /orders/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:42:36] "GET /seats/?hallid=1&hallScheduleid=1 HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:43:00] "POST /orders/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:43:08] "GET /seats/?hallid=1&hallScheduleid=2 HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\orders.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\orders.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:46:35] "PATCH /orders HTTP/1.1" 500 -
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:46:49] "PATCH /orders/ HTTP/1.1" 200 -
+INFO - _internal.py - 87 -  * Detected change in 'C:\\Users\\xlg\\Desktop\\python1703\\day13\\manage\\tpp\\api\\orders.py', reloading
+INFO - _internal.py - 87 -  * Restarting with stat
+WARNING - _internal.py - 87 -  * Debugger is active!
+INFO - _internal.py - 87 -  * Debugger PIN: 120-511-548
+INFO - _internal.py - 87 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 87 - 127.0.0.1 - - [28/Mar/2018 16:47:52] "PATCH /orders/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [28/Mar/2018 20:36:16] "POST /hallSchedules/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 20:52:48] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 20:53:20] "GET /movies/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 20:55:08] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 20:59:27] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:00:09] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:00:57] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:01:58] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:02:27] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:03:59] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:04:42] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:06:17] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:09:07] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:09:41] "DELETE /movies/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:10:11] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:10:50] "DELETE /movies/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:11:59] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:12:13] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:13:15] "DELETE /movies/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:14:00] "DELETE /movies/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:15:03] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:18:10] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:18:14] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:19:13] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:19:34] "DELETE /movies/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:20:38] "DELETE /movies/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:21:27] "GET /movies/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:23:06] "GET /movies/?flag=0&sortby=-1&order=-1&limit=5 HTTP/1.1" 200 -
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:23:51] "GET /movies/?flag=1&sortby=-1&order=-1&limit=5 HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\movies.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:28:22] "GET /orders/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:29:23] "PATCH /orders/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:30:00] "PATCH /orders/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:52:18] "GET /halls/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:53:28] "GET /halls/?name=%E6%A1%83%E8%8A%B1%E6%BA%90&cinemaid=1 HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:58:15] "GET /halls/?name=%E6%A1%83%E8%8A%B1%E6%BA%90&cinemaid=1 HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:58:58] "GET /halls/?name=%E6%A1%83%E8%8A%B1%E6%BA%90&cinemaid=1 HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 21:59:32] "GET /halls/?name=%E6%A1%83%E8%8A%B1%E6%BA%90&cinemaid=1 HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:01:00] "GET /hallSchedules/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:04:44] "DELETE /halls/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:05:10] "DELETE /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:05:23] "DELETE /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:27:20] "PATCH /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:27:41] "PATCH /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:31:42] "PATCH /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:34:00] "PATCH /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:34:39] "PATCH /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:37:48] "PATCH /halls/ HTTP/1.1" 500 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:38:02] "PATCH /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:38:46] "PATCH /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO - _internal.py - 88 - 127.0.0.1 - - [29/Mar/2018 22:40:11] "PATCH /halls/ HTTP/1.1" 200 -
+INFO - _internal.py - 88 -  * Detected change in 'D:\\Ç§·æÑ§Ï°\\µÚËÄ½×¶Î\\day13\\manage\\tpp\\api\\halls.py', reloading
+INFO - _internal.py - 88 -  * Restarting with stat
+WARNING - _internal.py - 88 -  * Debugger is active!
+INFO - _internal.py - 88 -  * Debugger PIN: 905-839-379
+INFO - _internal.py - 88 -  * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)

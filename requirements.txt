@@ -1,0 +1,6 @@
+flask==0.10.1
+flask-script
+flask-migrate==2.1.1
+pymysql
+flask-sqlalchemy==2.3.2
+flask-restful
